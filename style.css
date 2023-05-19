@@ -1,3 +1,43 @@
-body {
+h2 {
+  
+  text-align: center;
+  color: #3185FC
+}
+h5 {
+  text-align: center;
+  color: #3185FC
+}
+h6 {
+  text-align: center;
+  text color: #3185FC
+    font-size: 10
+}
+body{
+  background-color: #34E5FF
+}
+div{ 
+  text-align: center;
+}
+nav {
+  list-style-type: none;
+  position: fixed;
+  background-color: #82A3A1;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 12px;
+}
 
+li {
+  display: inline;
+  padding: 13px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+li:hover {
+  background-color: blue;
 }
